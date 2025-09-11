@@ -7,7 +7,8 @@ If in conda environment:
 ```bash
 conda create --name codecarbon
 conda activate codecarbon
-
-**PIP method:** 
+```
+PIP method: 
 ```bash
 pip install codecarbon
+```
