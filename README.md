@@ -20,5 +20,14 @@ pip install codecarbon
 ```bash
 conda install -c codecarbon -c conda-forge codecarbon
 ```
+**Dataset Uploading Page**
+![Dashboard Preview](Images/Screenshot1.png)
+**Benchmarking Results**
+![Dashboard Preview](Images/Screenshot3.png)
+**Reccomendation Page**
+![Dashboard Preview](Images/Screenshot2.png)
+
+
+
 
 
